@@ -3,7 +3,7 @@
 ### Análise baseada no IDEB - Índice de Desenvolvimento da Educação Básica
 
 ---
-## IDEB é Termometro de qualidade de ensino no brasil
+## IDEB é o "termometro" de qualidade de ensino no brasil
 
 O **IDEB** é um indicador criado pelo **INEP/MEC** para medir a qualidade da educação básica no Brasil. Ele funciona como uma **nota de 0 a 10** e é calculado a cada **dois anos**.
 Ele combina dois fatores principais:
