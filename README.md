@@ -57,5 +57,5 @@ O dashboard oferece uma visão clara, interativa e acessível sobre a **qualidad
 - Gestores públicos,
 - E pesquisadores que buscam **avaliar, comparar e melhorar o ensino no país**.
 
-
+Fonte: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb
 ![inep-logo-4](https://github.com/user-attachments/assets/39ec4add-443a-4f54-9a2f-f7d157e6c78a)
