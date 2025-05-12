@@ -33,6 +33,7 @@ Permite **comparações entre estados, regiões e tipos de escolas**.
 
  ## KPI
  **Percentual Alcaçado:** Com a meta fixa (6,0) a medida traz uma comparação proporcional onde valores acima de 100% indicam superação da meta.
+ 
   **Desvio de Meta:** Mede a diferença em pontos entre a média alcançada e a meta 6.0
 
 ## Insight
