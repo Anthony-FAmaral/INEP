@@ -1,0 +1,769 @@
+Região,Unidade_Federação,Ano,Metas
+Acre,Estadual,2007,3.4
+Acre,Estadual,2009,3.7
+Acre,Estadual,2011,4.2
+Acre,Estadual,2013,4.4
+Acre,Estadual,2015,4.7
+Acre,Estadual,2017,5
+Acre,Estadual,2019,5.3
+Acre,Estadual,2021,5.6
+Acre,Privada,2007,5.7
+Acre,Privada,2009,6
+Acre,Privada,2011,6.3
+Acre,Privada,2013,6.6
+Acre,Privada,2015,6.8
+Acre,Privada,2017,7
+Acre,Privada,2019,7.2
+Acre,Privada,2021,7.4
+Acre,Pública,2007,3.4
+Acre,Pública,2009,3.7
+Acre,Pública,2011,4.1
+Acre,Pública,2013,4.4
+Acre,Pública,2015,4.7
+Acre,Pública,2017,5
+Acre,Pública,2019,5.3
+Acre,Pública,2021,5.6
+Alagoas,Estadual,2007,2.9
+Alagoas,Estadual,2009,3.3
+Alagoas,Estadual,2011,3.7
+Alagoas,Estadual,2013,4
+Alagoas,Estadual,2015,4.3
+Alagoas,Estadual,2017,4.6
+Alagoas,Estadual,2019,4.9
+Alagoas,Estadual,2021,5.2
+Alagoas,Privada,2007,5.2
+Alagoas,Privada,2009,5.5
+Alagoas,Privada,2011,5.9
+Alagoas,Privada,2013,6.1
+Alagoas,Privada,2015,6.3
+Alagoas,Privada,2017,6.6
+Alagoas,Privada,2019,6.8
+Alagoas,Privada,2021,7
+Alagoas,Pública,2007,2.5
+Alagoas,Pública,2009,2.8
+Alagoas,Pública,2011,3.2
+Alagoas,Pública,2013,3.4
+Alagoas,Pública,2015,3.7
+Alagoas,Pública,2017,4
+Alagoas,Pública,2019,4.3
+Alagoas,Pública,2021,4.6
+Amapá,Estadual,2007,3.1
+Amapá,Estadual,2009,3.5
+Amapá,Estadual,2011,3.9
+Amapá,Estadual,2013,4.2
+Amapá,Estadual,2015,4.4
+Amapá,Estadual,2017,4.7
+Amapá,Estadual,2019,5
+Amapá,Estadual,2021,5.3
+Amapá,Privada,2007,5
+Amapá,Privada,2009,5.3
+Amapá,Privada,2011,5.7
+Amapá,Privada,2013,5.9
+Amapá,Privada,2015,6.2
+Amapá,Privada,2017,6.4
+Amapá,Privada,2019,6.6
+Amapá,Privada,2021,6.9
+Amapá,Pública,2007,3.1
+Amapá,Pública,2009,3.4
+Amapá,Pública,2011,3.8
+Amapá,Pública,2013,4.1
+Amapá,Pública,2015,4.4
+Amapá,Pública,2017,4.7
+Amapá,Pública,2019,5
+Amapá,Pública,2021,5.3
+Amazonas,Estadual,2007,3.3
+Amazonas,Estadual,2009,3.7
+Amazonas,Estadual,2011,4.1
+Amazonas,Estadual,2013,4.4
+Amazonas,Estadual,2015,4.7
+Amazonas,Estadual,2017,5
+Amazonas,Estadual,2019,5.2
+Amazonas,Estadual,2021,5.5
+Amazonas,Privada,2007,5.6
+Amazonas,Privada,2009,5.9
+Amazonas,Privada,2011,6.2
+Amazonas,Privada,2013,6.5
+Amazonas,Privada,2015,6.7
+Amazonas,Privada,2017,6.9
+Amazonas,Privada,2019,7.1
+Amazonas,Privada,2021,7.3
+Amazonas,Pública,2007,3
+Amazonas,Pública,2009,3.3
+Amazonas,Pública,2011,3.8
+Amazonas,Pública,2013,4
+Amazonas,Pública,2015,4.3
+Amazonas,Pública,2017,4.6
+Amazonas,Pública,2019,4.9
+Amazonas,Pública,2021,5.2
+Bahia,Estadual,2007,2.7
+Bahia,Estadual,2009,3
+Bahia,Estadual,2011,3.4
+Bahia,Estadual,2013,3.7
+Bahia,Estadual,2015,4
+Bahia,Estadual,2017,4.3
+Bahia,Estadual,2019,4.6
+Bahia,Estadual,2021,4.9
+Bahia,Privada,2007,5.6
+Bahia,Privada,2009,5.9
+Bahia,Privada,2011,6.2
+Bahia,Privada,2013,6.5
+Bahia,Privada,2015,6.7
+Bahia,Privada,2017,6.9
+Bahia,Privada,2019,7.1
+Bahia,Privada,2021,7.3
+Bahia,Pública,2007,2.6
+Bahia,Pública,2009,2.9
+Bahia,Pública,2011,3.3
+Bahia,Pública,2013,3.6
+Bahia,Pública,2015,3.8
+Bahia,Pública,2017,4.1
+Bahia,Pública,2019,4.5
+Bahia,Pública,2021,4.8
+Ceará,Estadual,2007,3.2
+Ceará,Estadual,2009,3.6
+Ceará,Estadual,2011,4
+Ceará,Estadual,2013,4.3
+Ceará,Estadual,2015,4.6
+Ceará,Estadual,2017,4.9
+Ceará,Estadual,2019,5.2
+Ceará,Estadual,2021,5.5
+Ceará,Privada,2007,5.5
+Ceará,Privada,2009,5.8
+Ceará,Privada,2011,6.1
+Ceará,Privada,2013,6.4
+Ceará,Privada,2015,6.6
+Ceará,Privada,2017,6.8
+Ceará,Privada,2019,7
+Ceará,Privada,2021,7.2
+Ceará,Pública,2007,2.9
+Ceará,Pública,2009,3.2
+Ceará,Pública,2011,3.6
+Ceará,Pública,2013,3.9
+Ceará,Pública,2015,4.2
+Ceará,Pública,2017,4.5
+Ceará,Pública,2019,4.8
+Ceará,Pública,2021,5.1
+Centro-Oeste,Estadual,2007,3.9
+Centro-Oeste,Estadual,2009,4.3
+Centro-Oeste,Estadual,2011,4.7
+Centro-Oeste,Estadual,2013,5
+Centro-Oeste,Estadual,2015,5.3
+Centro-Oeste,Estadual,2017,5.5
+Centro-Oeste,Estadual,2019,5.8
+Centro-Oeste,Estadual,2021,6.1
+Centro-Oeste,Privada,2007,5.9
+Centro-Oeste,Privada,2009,6.2
+Centro-Oeste,Privada,2011,6.5
+Centro-Oeste,Privada,2013,6.8
+Centro-Oeste,Privada,2015,7
+Centro-Oeste,Privada,2017,7.2
+Centro-Oeste,Privada,2019,7.3
+Centro-Oeste,Privada,2021,7.5
+Centro-Oeste,Pública,2007,3.8
+Centro-Oeste,Pública,2009,4.2
+Centro-Oeste,Pública,2011,4.6
+Centro-Oeste,Pública,2013,4.9
+Centro-Oeste,Pública,2015,5.1
+Centro-Oeste,Pública,2017,5.4
+Centro-Oeste,Pública,2019,5.7
+Centro-Oeste,Pública,2021,6
+Distrito Federal,Estadual,2007,4.5
+Distrito Federal,Estadual,2009,4.8
+Distrito Federal,Estadual,2011,5.2
+Distrito Federal,Estadual,2013,5.5
+Distrito Federal,Estadual,2015,5.8
+Distrito Federal,Estadual,2017,6
+Distrito Federal,Estadual,2019,6.3
+Distrito Federal,Estadual,2021,6.5
+Distrito Federal,Privada,2007,6.4
+Distrito Federal,Privada,2009,6.7
+Distrito Federal,Privada,2011,7
+Distrito Federal,Privada,2013,7.2
+Distrito Federal,Privada,2015,7.3
+Distrito Federal,Privada,2017,7.5
+Distrito Federal,Privada,2019,7.7
+Distrito Federal,Privada,2021,7.8
+Distrito Federal,Pública,2007,4.5
+Distrito Federal,Pública,2009,4.8
+Distrito Federal,Pública,2011,5.2
+Distrito Federal,Pública,2013,5.5
+Distrito Federal,Pública,2015,5.8
+Distrito Federal,Pública,2017,6
+Distrito Federal,Pública,2019,6.3
+Distrito Federal,Pública,2021,6.5
+Espírito Santo,Estadual,2007,3.8
+Espírito Santo,Estadual,2009,4.1
+Espírito Santo,Estadual,2011,4.5
+Espírito Santo,Estadual,2013,4.8
+Espírito Santo,Estadual,2015,5.1
+Espírito Santo,Estadual,2017,5.4
+Espírito Santo,Estadual,2019,5.7
+Espírito Santo,Estadual,2021,5.9
+Espírito Santo,Privada,2007,6.4
+Espírito Santo,Privada,2009,6.6
+Espírito Santo,Privada,2011,6.9
+Espírito Santo,Privada,2013,7.1
+Espírito Santo,Privada,2015,7.3
+Espírito Santo,Privada,2017,7.5
+Espírito Santo,Privada,2019,7.6
+Espírito Santo,Privada,2021,7.8
+Espírito Santo,Pública,2007,4
+Espírito Santo,Pública,2009,4.4
+Espírito Santo,Pública,2011,4.8
+Espírito Santo,Pública,2013,5
+Espírito Santo,Pública,2015,5.3
+Espírito Santo,Pública,2017,5.6
+Espírito Santo,Pública,2019,5.9
+Espírito Santo,Pública,2021,6.1
+Goiás,Estadual,2007,4
+Goiás,Estadual,2009,4.3
+Goiás,Estadual,2011,4.7
+Goiás,Estadual,2013,5
+Goiás,Estadual,2015,5.3
+Goiás,Estadual,2017,5.6
+Goiás,Estadual,2019,5.8
+Goiás,Estadual,2021,6.1
+Goiás,Privada,2007,5.7
+Goiás,Privada,2009,6
+Goiás,Privada,2011,6.4
+Goiás,Privada,2013,6.6
+Goiás,Privada,2015,6.8
+Goiás,Privada,2017,7
+Goiás,Privada,2019,7.2
+Goiás,Privada,2021,7.4
+Goiás,Pública,2007,3.9
+Goiás,Pública,2009,4.2
+Goiás,Pública,2011,4.7
+Goiás,Pública,2013,4.9
+Goiás,Pública,2015,5.2
+Goiás,Pública,2017,5.5
+Goiás,Pública,2019,5.8
+Goiás,Pública,2021,6
+M. G. do Sul,Estadual,2007,3.3
+M. G. do Sul,Estadual,2009,3.6
+M. G. do Sul,Estadual,2011,4
+M. G. do Sul,Estadual,2013,4.3
+M. G. do Sul,Estadual,2015,4.6
+M. G. do Sul,Estadual,2017,4.9
+M. G. do Sul,Estadual,2019,5.2
+M. G. do Sul,Estadual,2021,5.5
+M. G. do Sul,Privada,2007,6.1
+M. G. do Sul,Privada,2009,6.4
+M. G. do Sul,Privada,2011,6.7
+M. G. do Sul,Privada,2013,6.9
+M. G. do Sul,Privada,2015,7.1
+M. G. do Sul,Privada,2017,7.3
+M. G. do Sul,Privada,2019,7.5
+M. G. do Sul,Privada,2021,7.6
+M. G. do Sul,Pública,2007,3.4
+M. G. do Sul,Pública,2009,3.8
+M. G. do Sul,Pública,2011,4.2
+M. G. do Sul,Pública,2013,4.5
+M. G. do Sul,Pública,2015,4.8
+M. G. do Sul,Pública,2017,5
+M. G. do Sul,Pública,2019,5.3
+M. G. do Sul,Pública,2021,5.6
+Maranhão,Estadual,2007,3.3
+Maranhão,Estadual,2009,3.6
+Maranhão,Estadual,2011,4
+Maranhão,Estadual,2013,4.3
+Maranhão,Estadual,2015,4.6
+Maranhão,Estadual,2017,4.9
+Maranhão,Estadual,2019,5.2
+Maranhão,Estadual,2021,5.5
+Maranhão,Privada,2007,5
+Maranhão,Privada,2009,5.3
+Maranhão,Privada,2011,5.7
+Maranhão,Privada,2013,5.9
+Maranhão,Privada,2015,6.2
+Maranhão,Privada,2017,6.4
+Maranhão,Privada,2019,6.6
+Maranhão,Privada,2021,6.9
+Maranhão,Pública,2007,2.8
+Maranhão,Pública,2009,3.1
+Maranhão,Pública,2011,3.5
+Maranhão,Pública,2013,3.8
+Maranhão,Pública,2015,4.1
+Maranhão,Pública,2017,4.4
+Maranhão,Pública,2019,4.7
+Maranhão,Pública,2021,5
+Mato Grosso,Estadual,2007,3.6
+Mato Grosso,Estadual,2009,4
+Mato Grosso,Estadual,2011,4.4
+Mato Grosso,Estadual,2013,4.7
+Mato Grosso,Estadual,2015,4.9
+Mato Grosso,Estadual,2017,5.2
+Mato Grosso,Estadual,2019,5.5
+Mato Grosso,Estadual,2021,5.8
+Mato Grosso,Privada,2007,5.5
+Mato Grosso,Privada,2009,5.8
+Mato Grosso,Privada,2011,6.2
+Mato Grosso,Privada,2013,6.4
+Mato Grosso,Privada,2015,6.6
+Mato Grosso,Privada,2017,6.8
+Mato Grosso,Privada,2019,7
+Mato Grosso,Privada,2021,7.2
+Mato Grosso,Pública,2007,3.6
+Mato Grosso,Pública,2009,3.9
+Mato Grosso,Pública,2011,4.3
+Mato Grosso,Pública,2013,4.6
+Mato Grosso,Pública,2015,4.9
+Mato Grosso,Pública,2017,5.2
+Mato Grosso,Pública,2019,5.5
+Mato Grosso,Pública,2021,5.7
+Minas Gerais,Estadual,2007,5
+Minas Gerais,Estadual,2009,5.3
+Minas Gerais,Estadual,2011,5.7
+Minas Gerais,Estadual,2013,5.9
+Minas Gerais,Estadual,2015,6.2
+Minas Gerais,Estadual,2017,6.4
+Minas Gerais,Estadual,2019,6.6
+Minas Gerais,Estadual,2021,6.8
+Minas Gerais,Privada,2007,7
+Minas Gerais,Privada,2009,7.2
+Minas Gerais,Privada,2011,7.4
+Minas Gerais,Privada,2013,7.6
+Minas Gerais,Privada,2015,7.7
+Minas Gerais,Privada,2017,7.9
+Minas Gerais,Privada,2019,8
+Minas Gerais,Privada,2021,8.1
+Minas Gerais,Pública,2007,4.6
+Minas Gerais,Pública,2009,4.9
+Minas Gerais,Pública,2011,5.3
+Minas Gerais,Pública,2013,5.6
+Minas Gerais,Pública,2015,5.9
+Minas Gerais,Pública,2017,6.1
+Minas Gerais,Pública,2019,6.4
+Minas Gerais,Pública,2021,6.6
+Nordeste,Estadual,2007,3
+Nordeste,Estadual,2009,3.3
+Nordeste,Estadual,2011,3.7
+Nordeste,Estadual,2013,4
+Nordeste,Estadual,2015,4.3
+Nordeste,Estadual,2017,4.6
+Nordeste,Estadual,2019,4.9
+Nordeste,Estadual,2021,5.2
+Nordeste,Privada,2007,5.4
+Nordeste,Privada,2009,5.7
+Nordeste,Privada,2011,6.1
+Nordeste,Privada,2013,6.3
+Nordeste,Privada,2015,6.5
+Nordeste,Privada,2017,6.8
+Nordeste,Privada,2019,7
+Nordeste,Privada,2021,7.2
+Nordeste,Pública,2007,2.7
+Nordeste,Pública,2009,3.1
+Nordeste,Pública,2011,3.5
+Nordeste,Pública,2013,3.7
+Nordeste,Pública,2015,4
+Nordeste,Pública,2017,4.3
+Nordeste,Pública,2019,4.6
+Nordeste,Pública,2021,4.9
+Norte,Estadual,2007,3.3
+Norte,Estadual,2009,3.6
+Norte,Estadual,2011,4.1
+Norte,Estadual,2013,4.3
+Norte,Estadual,2015,4.6
+Norte,Estadual,2017,4.9
+Norte,Estadual,2019,5.2
+Norte,Estadual,2021,5.5
+Norte,Privada,2007,5.6
+Norte,Privada,2009,5.9
+Norte,Privada,2011,6.2
+Norte,Privada,2013,6.4
+Norte,Privada,2015,6.7
+Norte,Privada,2017,6.9
+Norte,Privada,2019,7.1
+Norte,Privada,2021,7.3
+Norte,Pública,2007,3
+Norte,Pública,2009,3.3
+Norte,Pública,2011,3.7
+Norte,Pública,2013,4
+Norte,Pública,2015,4.3
+Norte,Pública,2017,4.6
+Norte,Pública,2019,4.9
+Norte,Pública,2021,5.2
+Paraná,Estadual,2007,5
+Paraná,Estadual,2009,5.4
+Paraná,Estadual,2011,5.7
+Paraná,Estadual,2013,6
+Paraná,Estadual,2015,6.2
+Paraná,Estadual,2017,6.5
+Paraná,Estadual,2019,6.7
+Paraná,Estadual,2021,6.9
+Paraná,Privada,2007,6.5
+Paraná,Privada,2009,6.7
+Paraná,Privada,2011,7
+Paraná,Privada,2013,7.2
+Paraná,Privada,2015,7.4
+Paraná,Privada,2017,7.6
+Paraná,Privada,2019,7.7
+Paraná,Privada,2021,7.9
+Paraná,Pública,2007,4.5
+Paraná,Pública,2009,4.8
+Paraná,Pública,2011,5.2
+Paraná,Pública,2013,5.5
+Paraná,Pública,2015,5.8
+Paraná,Pública,2017,6
+Paraná,Pública,2019,6.3
+Paraná,Pública,2021,6.5
+Paraíba,Estadual,2007,3.1
+Paraíba,Estadual,2009,3.4
+Paraíba,Estadual,2011,3.8
+Paraíba,Estadual,2013,4.1
+Paraíba,Estadual,2015,4.4
+Paraíba,Estadual,2017,4.7
+Paraíba,Estadual,2019,5
+Paraíba,Estadual,2021,5.3
+Paraíba,Privada,2007,5.5
+Paraíba,Privada,2009,5.8
+Paraíba,Privada,2011,6.1
+Paraíba,Privada,2013,6.4
+Paraíba,Privada,2015,6.6
+Paraíba,Privada,2017,6.8
+Paraíba,Privada,2019,7
+Paraíba,Privada,2021,7.2
+Paraíba,Pública,2007,2.8
+Paraíba,Pública,2009,3.1
+Paraíba,Pública,2011,3.5
+Paraíba,Pública,2013,3.8
+Paraíba,Pública,2015,4.1
+Paraíba,Pública,2017,4.4
+Paraíba,Pública,2019,4.7
+Paraíba,Pública,2021,5
+Pará,Estadual,2007,2.8
+Pará,Estadual,2009,3.2
+Pará,Estadual,2011,3.6
+Pará,Estadual,2013,3.8
+Pará,Estadual,2015,4.1
+Pará,Estadual,2017,4.4
+Pará,Estadual,2019,4.7
+Pará,Estadual,2021,5.1
+Pará,Privada,2007,5.5
+Pará,Privada,2009,5.8
+Pará,Privada,2011,6.2
+Pará,Privada,2013,6.4
+Pará,Privada,2015,6.6
+Pará,Privada,2017,6.8
+Pará,Privada,2019,7
+Pará,Privada,2021,7.2
+Pará,Pública,2007,2.7
+Pará,Pública,2009,3
+Pará,Pública,2011,3.4
+Pará,Pública,2013,3.7
+Pará,Pública,2015,4
+Pará,Pública,2017,4.3
+Pará,Pública,2019,4.6
+Pará,Pública,2021,4.9
+Pernambuco,Estadual,2007,3.2
+Pernambuco,Estadual,2009,3.5
+Pernambuco,Estadual,2011,3.9
+Pernambuco,Estadual,2013,4.2
+Pernambuco,Estadual,2015,4.5
+Pernambuco,Estadual,2017,4.8
+Pernambuco,Estadual,2019,5.1
+Pernambuco,Estadual,2021,5.4
+Pernambuco,Privada,2007,5.5
+Pernambuco,Privada,2009,5.8
+Pernambuco,Privada,2011,6.2
+Pernambuco,Privada,2013,6.4
+Pernambuco,Privada,2015,6.6
+Pernambuco,Privada,2017,6.8
+Pernambuco,Privada,2019,7
+Pernambuco,Privada,2021,7.2
+Pernambuco,Pública,2007,2.9
+Pernambuco,Pública,2009,3.2
+Pernambuco,Pública,2011,3.6
+Pernambuco,Pública,2013,3.9
+Pernambuco,Pública,2015,4.2
+Pernambuco,Pública,2017,4.5
+Pernambuco,Pública,2019,4.8
+Pernambuco,Pública,2021,5.1
+Piauí,Estadual,2007,2.6
+Piauí,Estadual,2009,2.9
+Piauí,Estadual,2011,3.3
+Piauí,Estadual,2013,3.6
+Piauí,Estadual,2015,3.9
+Piauí,Estadual,2017,4.2
+Piauí,Estadual,2019,4.5
+Piauí,Estadual,2021,4.8
+Piauí,Privada,2007,5.5
+Piauí,Privada,2009,5.8
+Piauí,Privada,2011,6.1
+Piauí,Privada,2013,6.4
+Piauí,Privada,2015,6.6
+Piauí,Privada,2017,6.8
+Piauí,Privada,2019,7
+Piauí,Privada,2021,7.2
+Piauí,Pública,2007,2.7
+Piauí,Pública,2009,3
+Piauí,Pública,2011,3.4
+Piauí,Pública,2013,3.7
+Piauí,Pública,2015,4
+Piauí,Pública,2017,4.3
+Piauí,Pública,2019,4.6
+Piauí,Pública,2021,4.9
+R. G. do Norte,Estadual,2007,2.6
+R. G. do Norte,Estadual,2009,2.9
+R. G. do Norte,Estadual,2011,3.3
+R. G. do Norte,Estadual,2013,3.6
+R. G. do Norte,Estadual,2015,3.9
+R. G. do Norte,Estadual,2017,4.2
+R. G. do Norte,Estadual,2019,4.5
+R. G. do Norte,Estadual,2021,4.8
+R. G. do Norte,Privada,2007,5.1
+R. G. do Norte,Privada,2009,5.4
+R. G. do Norte,Privada,2011,5.8
+R. G. do Norte,Privada,2013,6
+R. G. do Norte,Privada,2015,6.3
+R. G. do Norte,Privada,2017,6.5
+R. G. do Norte,Privada,2019,6.7
+R. G. do Norte,Privada,2021,7
+R. G. do Norte,Pública,2007,2.5
+R. G. do Norte,Pública,2009,2.8
+R. G. do Norte,Pública,2011,3.2
+R. G. do Norte,Pública,2013,3.5
+R. G. do Norte,Pública,2015,3.8
+R. G. do Norte,Pública,2017,4.1
+R. G. do Norte,Pública,2019,4.4
+R. G. do Norte,Pública,2021,4.7
+R. G. do Sul,Estadual,2007,4.2
+R. G. do Sul,Estadual,2009,4.6
+R. G. do Sul,Estadual,2011,5
+R. G. do Sul,Estadual,2013,5.3
+R. G. do Sul,Estadual,2015,5.5
+R. G. do Sul,Estadual,2017,5.8
+R. G. do Sul,Estadual,2019,6.1
+R. G. do Sul,Estadual,2021,6.3
+R. G. do Sul,Privada,2007,5.9
+R. G. do Sul,Privada,2009,6.2
+R. G. do Sul,Privada,2011,6.5
+R. G. do Sul,Privada,2013,6.7
+R. G. do Sul,Privada,2015,6.9
+R. G. do Sul,Privada,2017,7.1
+R. G. do Sul,Privada,2019,7.3
+R. G. do Sul,Privada,2021,7.5
+R. G. do Sul,Pública,2007,4.2
+R. G. do Sul,Pública,2009,4.5
+R. G. do Sul,Pública,2011,4.9
+R. G. do Sul,Pública,2013,5.2
+R. G. do Sul,Pública,2015,5.5
+R. G. do Sul,Pública,2017,5.7
+R. G. do Sul,Pública,2019,6
+R. G. do Sul,Pública,2021,6.3
+Rio de Janeiro,Estadual,2007,3.8
+Rio de Janeiro,Estadual,2009,4.1
+Rio de Janeiro,Estadual,2011,4.5
+Rio de Janeiro,Estadual,2013,4.8
+Rio de Janeiro,Estadual,2015,5.1
+Rio de Janeiro,Estadual,2017,5.4
+Rio de Janeiro,Estadual,2019,5.7
+Rio de Janeiro,Estadual,2021,5.9
+Rio de Janeiro,Privada,2007,5.8
+Rio de Janeiro,Privada,2009,6.1
+Rio de Janeiro,Privada,2011,6.4
+Rio de Janeiro,Privada,2013,6.6
+Rio de Janeiro,Privada,2015,6.8
+Rio de Janeiro,Privada,2017,7
+Rio de Janeiro,Privada,2019,7.2
+Rio de Janeiro,Privada,2021,7.4
+Rio de Janeiro,Pública,2007,4.1
+Rio de Janeiro,Pública,2009,4.4
+Rio de Janeiro,Pública,2011,4.8
+Rio de Janeiro,Pública,2013,5.1
+Rio de Janeiro,Pública,2015,5.4
+Rio de Janeiro,Pública,2017,5.6
+Rio de Janeiro,Pública,2019,5.9
+Rio de Janeiro,Pública,2021,6.2
+Rondônia,Estadual,2007,3.6
+Rondônia,Estadual,2009,4
+Rondônia,Estadual,2011,4.4
+Rondônia,Estadual,2013,4.7
+Rondônia,Estadual,2015,5
+Rondônia,Estadual,2017,5.2
+Rondônia,Estadual,2019,5.5
+Rondônia,Estadual,2021,5.8
+Rondônia,Privada,2007,5.8
+Rondônia,Privada,2009,6
+Rondônia,Privada,2011,6.4
+Rondônia,Privada,2013,6.6
+Rondônia,Privada,2015,6.8
+Rondônia,Privada,2017,7
+Rondônia,Privada,2019,7.2
+Rondônia,Privada,2021,7.4
+Rondônia,Pública,2007,3.6
+Rondônia,Pública,2009,3.9
+Rondônia,Pública,2011,4.3
+Rondônia,Pública,2013,4.6
+Rondônia,Pública,2015,4.9
+Rondônia,Pública,2017,5.2
+Rondônia,Pública,2019,5.5
+Rondônia,Pública,2021,5.8
+Roraima,Estadual,2007,3.6
+Roraima,Estadual,2009,3.9
+Roraima,Estadual,2011,4.3
+Roraima,Estadual,2013,4.6
+Roraima,Estadual,2015,4.9
+Roraima,Estadual,2017,5.2
+Roraima,Estadual,2019,5.5
+Roraima,Estadual,2021,5.7
+Roraima,Privada,2007,6.1
+Roraima,Privada,2009,6.4
+Roraima,Privada,2011,6.7
+Roraima,Privada,2013,6.9
+Roraima,Privada,2015,7.1
+Roraima,Privada,2017,7.3
+Roraima,Privada,2019,7.5
+Roraima,Privada,2021,7.6
+Roraima,Pública,2007,3.7
+Roraima,Pública,2009,4
+Roraima,Pública,2011,4.4
+Roraima,Pública,2013,4.7
+Roraima,Pública,2015,5
+Roraima,Pública,2017,5.3
+Roraima,Pública,2019,5.6
+Roraima,Pública,2021,5.8
+Santa Catarina,Estadual,2007,4.4
+Santa Catarina,Estadual,2009,4.7
+Santa Catarina,Estadual,2011,5.1
+Santa Catarina,Estadual,2013,5.4
+Santa Catarina,Estadual,2015,5.6
+Santa Catarina,Estadual,2017,5.9
+Santa Catarina,Estadual,2019,6.2
+Santa Catarina,Estadual,2021,6.4
+Santa Catarina,Privada,2007,6.5
+Santa Catarina,Privada,2009,6.7
+Santa Catarina,Privada,2011,7
+Santa Catarina,Privada,2013,7.2
+Santa Catarina,Privada,2015,7.4
+Santa Catarina,Privada,2017,7.5
+Santa Catarina,Privada,2019,7.7
+Santa Catarina,Privada,2021,7.8
+Santa Catarina,Pública,2007,4.4
+Santa Catarina,Pública,2009,4.7
+Santa Catarina,Pública,2011,5.1
+Santa Catarina,Pública,2013,5.4
+Santa Catarina,Pública,2015,5.6
+Santa Catarina,Pública,2017,5.9
+Santa Catarina,Pública,2019,6.2
+Santa Catarina,Pública,2021,6.4
+Sergipe,Estadual,2007,3.1
+Sergipe,Estadual,2009,3.4
+Sergipe,Estadual,2011,3.8
+Sergipe,Estadual,2013,4.1
+Sergipe,Estadual,2015,4.4
+Sergipe,Estadual,2017,4.7
+Sergipe,Estadual,2019,5
+Sergipe,Estadual,2021,5.3
+Sergipe,Privada,2007,5.3
+Sergipe,Privada,2009,5.6
+Sergipe,Privada,2011,6
+Sergipe,Privada,2013,6.2
+Sergipe,Privada,2015,6.5
+Sergipe,Privada,2017,6.7
+Sergipe,Privada,2019,6.9
+Sergipe,Privada,2021,7.1
+Sergipe,Pública,2007,2.9
+Sergipe,Pública,2009,3.2
+Sergipe,Pública,2011,3.6
+Sergipe,Pública,2013,3.9
+Sergipe,Pública,2015,4.2
+Sergipe,Pública,2017,4.5
+Sergipe,Pública,2019,4.8
+Sergipe,Pública,2021,5.1
+Sudeste,Estadual,2007,4.6
+Sudeste,Estadual,2009,4.9
+Sudeste,Estadual,2011,5.3
+Sudeste,Estadual,2013,5.6
+Sudeste,Estadual,2015,5.8
+Sudeste,Estadual,2017,6.1
+Sudeste,Estadual,2019,6.3
+Sudeste,Estadual,2021,6.6
+Sudeste,Privada,2007,6.3
+Sudeste,Privada,2009,6.6
+Sudeste,Privada,2011,6.9
+Sudeste,Privada,2013,7.1
+Sudeste,Privada,2015,7.3
+Sudeste,Privada,2017,7.4
+Sudeste,Privada,2019,7.6
+Sudeste,Privada,2021,7.8
+Sudeste,Pública,2007,4.4
+Sudeste,Pública,2009,4.8
+Sudeste,Pública,2011,5.2
+Sudeste,Pública,2013,5.4
+Sudeste,Pública,2015,5.7
+Sudeste,Pública,2017,6
+Sudeste,Pública,2019,6.2
+Sudeste,Pública,2021,6.5
+Sul,Estadual,2007,4.3
+Sul,Estadual,2009,4.6
+Sul,Estadual,2011,5
+Sul,Estadual,2013,5.3
+Sul,Estadual,2015,5.6
+Sul,Estadual,2017,5.8
+Sul,Estadual,2019,6.1
+Sul,Estadual,2021,6.3
+Sul,Privada,2007,6.2
+Sul,Privada,2009,6.5
+Sul,Privada,2011,6.8
+Sul,Privada,2013,7
+Sul,Privada,2015,7.2
+Sul,Privada,2017,7.4
+Sul,Privada,2019,7.5
+Sul,Privada,2021,7.7
+Sul,Pública,2007,4.3
+Sul,Pública,2009,4.7
+Sul,Pública,2011,5.1
+Sul,Pública,2013,5.4
+Sul,Pública,2015,5.6
+Sul,Pública,2017,5.9
+Sul,Pública,2019,6.1
+Sul,Pública,2021,6.4
+São Paulo,Estadual,2007,4.6
+São Paulo,Estadual,2009,4.9
+São Paulo,Estadual,2011,5.3
+São Paulo,Estadual,2013,5.5
+São Paulo,Estadual,2015,5.8
+São Paulo,Estadual,2017,6.1
+São Paulo,Estadual,2019,6.3
+São Paulo,Estadual,2021,6.6
+São Paulo,Privada,2007,6.6
+São Paulo,Privada,2009,6.8
+São Paulo,Privada,2011,7.1
+São Paulo,Privada,2013,7.3
+São Paulo,Privada,2015,7.5
+São Paulo,Privada,2017,7.6
+São Paulo,Privada,2019,7.8
+São Paulo,Privada,2021,7.9
+São Paulo,Pública,2007,4.6
+São Paulo,Pública,2009,4.9
+São Paulo,Pública,2011,5.3
+São Paulo,Pública,2013,5.6
+São Paulo,Pública,2015,5.8
+São Paulo,Pública,2017,6.1
+São Paulo,Pública,2019,6.3
+São Paulo,Pública,2021,6.6
+Tocantins,Estadual,2007,3.7
+Tocantins,Estadual,2009,4
+Tocantins,Estadual,2011,4.5
+Tocantins,Estadual,2013,4.7
+Tocantins,Estadual,2015,5
+Tocantins,Estadual,2017,5.3
+Tocantins,Estadual,2019,5.6
+Tocantins,Estadual,2021,5.9
+Tocantins,Privada,2007,5.7
+Tocantins,Privada,2009,5.9
+Tocantins,Privada,2011,6.3
+Tocantins,Privada,2013,6.5
+Tocantins,Privada,2015,6.7
+Tocantins,Privada,2017,6.9
+Tocantins,Privada,2019,7.1
+Tocantins,Privada,2021,7.3
+Tocantins,Pública,2007,3.5
+Tocantins,Pública,2009,3.8
+Tocantins,Pública,2011,4.2
+Tocantins,Pública,2013,4.5
+Tocantins,Pública,2015,4.8
+Tocantins,Pública,2017,5.1
+Tocantins,Pública,2019,5.4
+Tocantins,Pública,2021,5.7
