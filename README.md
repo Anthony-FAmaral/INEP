@@ -44,8 +44,8 @@ O percentual de metas atingidas subiu gradualmente, partindo de 71,2% (2007) at�
 
 **6) O que representa o Desvio de Meta em -69,3%?**
 
-Indicador numérico no cartão superior direito.
-Reflete o quanto, em média, as escolas que não atingiram as metas ficaram abaixo do valor esperado. Um desvio negativo de -69,3% indica alto grau de não conformidade a qualidade educacional em todo brasil.
+Em nivel Brasil:
+Reflete o quanto, em média, as escolas que não atingiram as metas ficaram abaixo do valor esperado (Meta fixa 6.0). Um desvio negativo de -69,3% indica alto grau de não conformidade a qualidade educacional em ambito nacional.
 
 ---
 
