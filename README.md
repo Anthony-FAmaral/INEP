@@ -18,16 +18,28 @@ Permite **comparações entre estados, regiões e tipos de escolas**.
 
 ## 🔍 Principais Perguntas para função das analises descritivas
 
-1. **Qual é a evolução da qualidade da educação básica no Brasil ao longo dos anos?**  
-    Gráfico de colunas com a média por ano e percentual de metas atingidas.
-2. **Quais regiões e estados têm os melhores e piores desempenhos educacionais?**  
-    Gráficos de barras por região e por estado + mapa interativo.
-3. **Como a nota média varia entre redes de ensino pública, privada e estadual?**  
-    Gráfico de rosca por tipo de unidade de ensino.
-4. **Qual é a nota mínima, média e máxima entre todas as escolas avaliadas?**  
-    Cartões indicadores: 2,50 (mínima), 5,31 (média), 8,10 (máxima).
-5. **Qual o percentual de metas atingidas por ano no Brasil?**  
-    Linha azul no gráfico de colunas mostra o % alcançado por ano.
+**1) Qual é a evolução da qualidade da educação básica no Brasil ao longo dos anos?**
+Gráfico de colunas: De 2007 a 2021, houve crescimento contínuo na média das metas e no percentual alcançado. O percentual subiu de 71,2% em 2007 para 103,9% em 2021, indicando avanço constante na qualidade educacional.
+
+**2) Quais regiões e estados têm os melhores e piores desempenhos educacionais?**
+Gráficos de barras por região e por estado + mapa interativo:
+Sul e Sudeste têm as maiores médias regionais (6,0). Minas Gerais (6,4) e Paraná (6,3) se destacam entre os estados. Nordeste (4,8) e Norte (5,2) têm os piores desempenhos regionais.
+
+**3) Como a nota média varia entre redes de ensino pública, privada e estadual?**
+Gráfico de rosca por tipo de unidade de ensino:
+A rede privada tem a maior média (6,7). As redes pública (4,7) e estadual (4,6) apresentam desempenho inferior. A diferença indica desigualdade entre os tipos de ensino.
+
+**4) Qual é a nota mínima, média e máxima entre todas as escolas avaliadas?**
+Cartões indicadores: 2,50 (mínima), 5,30 (média), 8,10 (máxima).
+As metas variam de 2,5 a 8,1, com média de 5,3. Isso mostra disparidade no desempenho entre escolas.
+
+**5) Qual o percentual de metas atingidas por ano no Brasil?**
+Linha azul no gráfico de colunas mostra o % alcançado por ano.
+O percentual de metas atingidas subiu gradualmente, partindo de 71,2% (2007) até ultrapassar 100% em 2021 (103,9%). A média geral é de 88,5%.
+
+**6) O que representa o Desvio de Meta em -69,3%?**
+Indicador numérico no cartão superior direito.
+Reflete o quanto, em média, as escolas que não atingiram as metas ficaram abaixo do valor esperado. Um desvio negativo de -69,3% indica alto grau de não conformidade a qualidade educacional em todo brasil.
 
 ---
 
