@@ -23,7 +23,7 @@ Permite **comparações entre estados, regiões e tipos de escolas**.
 2. **Quais regiões e estados têm os melhores e piores desempenhos educacionais?**  
     Gráficos de barras por região e por estado + mapa interativo.
 3. **Como a nota média varia entre redes de ensino pública, privada e estadual?**  
-    Gráfico de rosca (donut) por tipo de unidade.
+    Gráfico de rosca por tipo de unidade de ensino.
 4. **Qual é a nota mínima, média e máxima entre todas as escolas avaliadas?**  
     Cartões indicadores: 2,50 (mínima), 5,31 (média), 8,10 (máxima).
 5. **Qual o percentual de metas atingidas por ano no Brasil?**  
@@ -38,11 +38,11 @@ Permite **comparações entre estados, regiões e tipos de escolas**.
 
 ## Insight
 
--  **meta média nacional**: 5,31
+-  **meta média nacional**: mesmo com o crescimento médio, o Brasil permanece com uma baixa qualidade de ensino (5,31)
 -  **Melhores metas por estado**: Minas Gerais, Paraná e São Paulo
--  **Região com  menor qualidade educacional**: Mesmo com o crescimento anual na qualidade do educacional o Nordeste (4,76), é a unica região que continua negativo no desvio de metas.
--  **Região com  maior qualidade educacional**: Em 2015 o sul ultrapssou a qualidade de ensino com seu desvio positivo 4,7% positivo.
--  **Progresso na qualidade do ensino**: 2021 foi o único ano em que a meta foi superada, com nota média acima da meta (6,2). Desvio de Meta positivo (23,5%), com Percentual Alcançado acima de 100%.
+-  **Região com  menor qualidade educacional**: Mesmo com o crescimento anual na qualidade educacional o Nordeste (4,76), é a unica região que continua negativo no desvio de metas.
+-  **Região com  maior qualidade educacional**: Em 2015 o sul é a primeira região que resulta em déficit na qualidade de ensino com seu desvio positivo 4,7%.
+-  **Progresso na qualidade do ensino**: 2021 foi o ano transitorio para o superávit em que a meta foi superada, com meta acima da média (6,2), desvio de Meta positivo (23,5%) e com Percentual Alcançado acima de 100%.
 -  **Unidades privadas** apresentam desempenho superior às estaduais e públicas
 
 ---
