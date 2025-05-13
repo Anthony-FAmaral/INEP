@@ -58,9 +58,9 @@ Reflete o quanto, em média, as escolas que não atingiram as metas ficaram abai
 
 -  **meta média nacional**: mesmo com o crescimento médio, o Brasil permanece com uma baixa qualidade de ensino (5,31)
 -  **Melhores metas por estado**: Minas Gerais, Paraná e São Paulo
--  **Região com  menor qualidade educacional**: Mesmo com o crescimento anual na qualidade educacional o Nordeste (4,76), é a unica região que continua negativo no desvio de metas.
--  **Região com  maior qualidade educacional**: Em 2015 o sul é a primeira região que resulta em déficit na qualidade de ensino com seu desvio positivo 4,7%.
--  **Progresso na qualidade do ensino**: 2021 foi o ano transitorio para o superávit em que a meta foi superada, com meta acima da média (6,2), desvio de Meta positivo (23,5%) e com Percentual Alcançado acima de 100%.
+-  **Região com  menor qualidade educacional**: Mesmo com o crescimento anual na qualidade educacional o Nordeste (4,76), é a única região que permanece negativo no desvio de metas.
+-  **Região com  maior qualidade educacional**: Em **2015** o sul é a primeira região que resulta em déficit na qualidade de ensino com seu desvio positivo 4,7%.
+-  **Progresso na qualidade do ensino**: **2021** foi o ano transitorio para o superávit em que a meta foi superada, com meta acima da média (6,2), desvio de Meta positivo (23,5%) e com Percentual Alcançado acima de 100%.
 -  **Unidades privadas** apresentam desempenho superior às estaduais e públicas
 
 ---
